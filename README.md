@@ -4,7 +4,8 @@ Welcome to our project repository! This project focuses on analyzing employee at
 
 
 
-https://github.com/AhmedSamiii/PoweBI_Attrition_Dashboard/assets/109793272/3886155d-7804-4941-ae11-ee1cedff4a93
+
+https://github.com/AhmedSamiii/PoweBI_Attrition_Dashboard/assets/109793272/cb6878e2-dc44-4ced-b1d0-2fa9e1d04030
 
 
 ## Brief Description
