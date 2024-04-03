@@ -24,5 +24,6 @@ The story behind the dashboard is divided into three main parts:
   - Additionally, there are two dimension tables:
     - **Date Dimension:** This table provides a comprehensive set of dates for analysis, allowing for time-based analysis of attrition and behavior trends.
     - **Employee Dimension:** This table holds detailed information about each employee, including demographics, job details, etc.
+![image](https://github.com/AhmedSamiii/PoweBI_Attrition_Dashboard/assets/109793272/af6b950e-ca40-43d6-a9bf-e7254945d2de)
 
 
